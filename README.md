@@ -9,10 +9,12 @@ The result is a processed video that highlights the lane lines on the paved road
 
 ## Project management stages:
 
+ ![title](/Images/frontCamera.PNG)
+ 
 1. Road Mask
 2. Color masks	
 3. Canny Edge Detection
-4. Hough Transformation                     
+4. Hough Transformation                  
 5. Angle & Location Filter 
 6. Draw Line Average
 
