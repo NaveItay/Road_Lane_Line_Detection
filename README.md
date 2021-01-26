@@ -22,4 +22,10 @@ The result is a processed video that highlights the lane lines on the paved road
 ###### Road Mask
 > Cutting down the dashboard, sky, and all the irrelevant information to reduce unwanted noise.
 > I created a triangle-shaped mask customized to our needs.
+>  
 > ![title](/Images/triangle_mask.PNG)
+
+###### Color Masks
+> Defining color masks allows color-based pixels selection in an image. 
+> 
+> The intention is to select only orange and yellow pixels and set the rest of the image to black.
