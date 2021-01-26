@@ -46,11 +46,12 @@ The result is a processed video that highlights the lane lines on the paved road
 
 ###### Hough Transformation
 > The Hough transform been used to detect the lines and the output is a parametric description of the lines in an image.
+> 
 > ![title](/Images/Hough-Transformation.PNG)
+> 
+> We got many lines plus noises, so it is necessary to create an angle filter and draw one average line for a good result.
 >
->
->
->
+
 
 
 
