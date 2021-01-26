@@ -1,5 +1,5 @@
 # Road Lane Line Detection
-Computer Vision algorithm to detect road lane lines on road using OpenCV
+
 
 ![title](/Images/introduction.PNG)
 
