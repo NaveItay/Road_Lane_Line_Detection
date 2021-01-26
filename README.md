@@ -63,7 +63,17 @@ The result is a processed video that highlights the lane lines on the paved road
 > | __Xmin  <  X1  <  Xmiddle__      |  __Xmiddle  <  X1  <  Xmin__       |
 > |  __20ﹾ  <  θ  <  40ﹾ__  |  __-40ﹾ  <  θ  <  -20ﹾ__  |
 >
->
+> 
 
+###### Draw Line Average
+> Average on the 2 groups separately,
+> And printing an average line, right and left.
+> 
+> ![title](/Images/Draw_line_average.PNG)
+>
+> 
+> * Green Lines: lines after angle filter.
+> * Blue Lines: lines after average.
+> 
 
 
