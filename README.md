@@ -32,3 +32,17 @@ The result is a processed video that highlights the lane lines on the paved road
 > 
 > ![title](/Images/color_mask.PNG)
 
+###### Canny Edge Detection
+> The Canny edge detector is an edge detection operator that uses a multi-stage algorithm
+> to detect a wide range of edges in images.
+> ```
+> 1.	Apply Gaussian filter to smooth the image to remove the noise
+> 2.	Find the intensity gradients of the image
+> 3.	Apply non-maximum suppression to get rid of spurious response to edge detection
+> 4.	Apply double threshold to determine potential edges
+> 5.	Track edge by hysteresis: Finalize the detection of edges by suppressing all the other edges that are weak and >    not connected to strong edge
+> ```
+>
+>
+
+
