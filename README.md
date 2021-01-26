@@ -54,7 +54,7 @@ The result is a processed video that highlights the lane lines on the paved road
 
 ###### Angle and Location Filter
 > 
-> ![title](/Images/Angle and Location Filter.jpg)
+> ![title](/Images/Angle_and_Location_Filter.jpg)
 >
 >
 
