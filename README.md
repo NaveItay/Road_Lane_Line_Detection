@@ -18,9 +18,8 @@ The result is a processed video that highlights the lane lines on the paved road
 5. Angle & Location Filter 
 6. Draw Line Average
 
-
 # 
 ###### Road Mask
-Cutting down the dashboard, sky, and all the irrelevant information to reduce unwanted noise.
-I created a triangle-shaped mask customized to our needs.
+> Cutting down the dashboard, sky, and all the irrelevant information to reduce unwanted noise.
+> I created a triangle-shaped mask customized to our needs.
 
