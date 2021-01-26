@@ -52,6 +52,11 @@ The result is a processed video that highlights the lane lines on the paved road
 > We got many lines plus noises, so it is necessary to create an angle filter and draw one average line for a good result.
 >
 
+###### Angle and Location Filter
+> 
+> ![title](/Images/Angle and Location Filter.jpg)
+>
+>
 
 
 
