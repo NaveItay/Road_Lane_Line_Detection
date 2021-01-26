@@ -55,9 +55,15 @@ The result is a processed video that highlights the lane lines on the paved road
 ###### Angle and Location Filter
 > 
 > ![title](/Images/Angle_and_Location_Filter.jpg)
+> 
+> Sort the lines array into 2 parts by location and vector angle.
+>
+> | Left Lines      | Right Lines |
+> | ----------- | ----------- |
+> | __Xmin  <  X1  <  Xmiddle__      |  __Xmiddle  <  X1  <  Xmin__       |
+> |  __20ﹾ  <  θ  <40ﹾ   __   | __-40ﹾ  <  θ  <  -20ﹾ__      |
 >
 >
-
 
 
 
