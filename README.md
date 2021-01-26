@@ -42,7 +42,16 @@ The result is a processed video that highlights the lane lines on the paved road
 > 4.	Apply double threshold to determine potential edges
 > 5.	Track edge by hysteresis: Finalize the detection of edges by suppressing all the other edges that are weak and not connected to strong edge
 > ```
+> ![title](/Images/canny.PNG)
+
+###### Hough Transformation
+> The Hough transform been used to detect the lines and the output is a parametric description of the lines in an image.
 >
 >
+>
+>
+>
+
+
 
 
