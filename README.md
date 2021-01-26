@@ -40,7 +40,7 @@ The result is a processed video that highlights the lane lines on the paved road
 > 2.	Find the intensity gradients of the image
 > 3.	Apply non-maximum suppression to get rid of spurious response to edge detection
 > 4.	Apply double threshold to determine potential edges
-> 5.	Track edge by hysteresis: Finalize the detection of edges by suppressing all the other edges that are weak and >    not connected to strong edge
+> 5.	Track edge by hysteresis: Finalize the detection of edges by suppressing all the other edges that are weak and not connected to strong edge
 > ```
 >
 >
