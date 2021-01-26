@@ -29,3 +29,6 @@ The result is a processed video that highlights the lane lines on the paved road
 > Defining color masks allows color-based pixels selection in an image. 
 > 
 > The intention is to select only orange and yellow pixels and set the rest of the image to black.
+> 
+> ![title](/Images/color_mask.PNG)
+
