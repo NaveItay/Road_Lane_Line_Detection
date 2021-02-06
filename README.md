@@ -4,8 +4,8 @@
 ![title](/Images/introduction.PNG)
 
 ###### Video Link
-> 
-> Link to [Youtube](https://www.youtube.com/watch?v=3_SZbX6wxe8&ab_channel=ItayNave).
+ 
+- Link to [Youtube](https://www.youtube.com/watch?v=3_SZbX6wxe8&ab_channel=ItayNave).
 
 In this project, I implemented a computer vision algorithm that processes real data recorded with the front-facing camera of a vehicle driving on an Israel, 20 Ayalon North on the way to work.
 The result is a processed video that highlights the lane lines on the paved road.
