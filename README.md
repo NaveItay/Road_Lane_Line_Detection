@@ -62,7 +62,7 @@ The result is a processed video that highlights the lane lines on the paved road
 >
 > | Left Lines      | Right Lines |
 > | ----------- | ----------- |
-> | __Xmin  <  X1  <  Xmiddle__      |  __Xmiddle  <  X1  <  Xmin__       |
+> | __Xmin  <  X1  <  Xmiddle__      |  __Xmiddle  <  X1  <  Xmax__       |
 > |  __20ﹾ  <  θ  <  40ﹾ__  |  __-40ﹾ  <  θ  <  -20ﹾ__  |
 >
 > 
