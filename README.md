@@ -9,7 +9,7 @@ The result is a processed video that highlights the lane lines on the paved road
  
 - Link to [Youtube](https://www.youtube.com/watch?v=3_SZbX6wxe8&ab_channel=ItayNave).
 
-## Project management stages:
+## Project steps:
 
  ![title](/Images/frontCamera.PNG)
  
